@@ -1,0 +1,27 @@
+body{
+    font-family: 'Squada One', ;
+    background-color: papayawhip;
+
+}
+
+h1{
+font-size: 50px;
+}
+
+.name-highlight{
+color: orange;
+
+}
+
+.first-section{
+width: 40%;
+background-color: gray;
+margin-left: 5%;
+padding-left: 5%;
+float: left;
+}
+
+.first-section img{
+width: 100%;
+
+}
