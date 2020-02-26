@@ -1,7 +1,13 @@
-body{
-    font-family: 'Squada One', ;
-    background-color: papayawhip;
+.body{
+    margin: 0px;
 
+
+}
+
+section{
+    font-family: 'Squada One', ;
+    background-image:url(top-banner.png);
+    background-repeat: no-repeat;
 }
 
 h1{
@@ -15,13 +21,104 @@ color: orange;
 
 .first-section{
 width: 40%;
-background-color: gray;
 margin-left: 5%;
 padding-left: 5%;
 float: left;
+margin-bottom: 150px;
 }
 
 .first-section img{
 width: 100%;
 
 }
+
+.button{
+    background-image: linear-gradient(45deg, yellow,red);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.second-section{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    padding-left: 5%;
+    font-weight: 400;
+    margin-bottom: 150px;
+}
+
+.second-section img{
+    width: 50%;
+
+}
+
+
+
+.orange{
+ font-size: medium;
+ color: orange;
+
+}
+
+
+.box{
+border-radius: 10px;
+box-shadow: 10px 10px 40px gray;
+height: 50%;
+margin-left: 7px solid;
+float: left;
+
+
+}
+
+
+
+
+
+.justbox{
+    background-color: gray;
+    margin-left: 50px;
+    width: 40%;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 7px;
+    border-left: 5px red;
+
+
+
+}
+
+#box-angel{
+    border-left: 7px;
+    border-image: ;
+    border-image-slice: 3;
+    border-image: linear-gradient(yellow, red ) ;
+}
+
+#thisnis{
+    border-left: 7px solid;
+    border-color: brown;
+
+
+
+
+}
+
+.footer{
+ 
+    height: 450px;
+    width: 250px;
+
+
+}
+
+
+
+
+
+
+
+
